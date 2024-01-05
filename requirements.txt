@@ -1,3 +1,6 @@
 httpx==0.24.1
 pydantic-settings==2.0.1
 python-telegram-bot==20.4
+imgkit==1.2.3
+pdfkit==1.0.0
+Requests==2.31.0
